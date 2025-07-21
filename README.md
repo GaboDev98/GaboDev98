@@ -1,5 +1,5 @@
 # Angel Ascanio Duran
-**Senior Android Developer**
+**Senior Mobile Engineer**
 
 🇨🇴 **Colombian** | 📧 developer.gabo@gmail.com | 📱 +57 310 330 6338
 
@@ -21,8 +21,20 @@ I am a Systems Engineer from Politécnico Grancolombiano University and a Techno
 
 ## 🏢 Work Experience
 
+### **Kueski** — *Mobile Software Engineer III*  
+*April 2025 – Present*  
+- Understand and address the root of challenges.
+- Design and implement effective solutions.
+- Write software to meet business and team goals.
+- Fix bugs, resolve incidents, and identify risks.
+- Support best practices and mentor the team to
+align with the tech vision.
+- Ensure focus on project objectives while working
+within Scrum methodology and setting quarterly
+goals.
+
 ### **Backbase** — *Senior Android Developer*  
-*November 2020 – Present*  
+*November 2020 – April 2025*  
 - Led the Android development team on various banking projects.  
 - Developed and maintained mobile apps for retail banking.  
 - Estimated project scopes and implemented UI/UX designs based on customer requirements.  
